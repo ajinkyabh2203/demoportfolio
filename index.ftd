@@ -136,7 +136,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.AJ.png
 width.fixed.px: 400
 
 -- end: ftd.row
@@ -161,7 +161,7 @@ spacing.fixed.px: 20
 
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.AJ.png
 width.fixed.px: 250
 align-self: center
 
